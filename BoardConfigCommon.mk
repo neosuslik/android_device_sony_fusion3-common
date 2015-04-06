@@ -98,7 +98,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/
 TARGET_BOOTANIMATION_HALF_RES := true
 
 # External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
+TARGET_EXTERNAL_APPS := sdcard1
 
 # TWRP
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
